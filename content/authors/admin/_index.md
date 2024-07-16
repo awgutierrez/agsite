@@ -128,6 +128,7 @@ skills:
 #      - Synthesize your own blockchain solutions
 #      - Gain an in-depth understanding of the specific mechanics of Bitcoin
 
+---
 ## About Me
 
 I'm a researcher in energy systems optimization at [VTT](https://www.vttresearch.com/en). I'm a mathematician with research experience in metric geometry, functional analysis, optimization, and dynamics. Currently, I'm working with [VTT's energy experts](https://cris.vtt.fi/en/organisations/does-design-and-operation-of-energy-systems/) to help tackle the energy transition challenges.
