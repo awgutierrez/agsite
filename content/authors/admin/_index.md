@@ -53,7 +53,7 @@ education:
 #    date_start: 2016-01-01
     date_end: 2019-11-28
     summary: |
-      Thesis on _Metric compactification of Banach spaces_. Supervised by [Prof Anders Karlsson](https://www.unige.ch/math/folks/karlsson/), [Prof Kalle Kytölä](https://math.aalto.fi/~kkytola/), and [Prof Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna). 
+      Thesis on _Metric compactification of Banach spaces_.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/handle/123456789/41224'
@@ -141,4 +141,6 @@ skills:
 
 I'm a researcher in energy systems optimization at [VTT](https://www.vttresearch.com/en). I'm a mathematician with research experience in metric geometry, functional analysis, optimization, and dynamics. Currently, I'm working with [VTT's energy experts](https://cris.vtt.fi/en/organisations/does-design-and-operation-of-energy-systems/) to help tackle the energy transition challenges.
 
-Previously, I worked as a researcher in the [TROPICAL team](https://team.inria.fr/tropical/) at [Inria Saclay](https://www.inria.fr/en/centre-inria-saclay-ile-de-france) and the [École Polytechnique](https://www.polytechnique.edu/).
+Previously, I worked as a researcher in the [TROPICAL team](https://team.inria.fr/tropical/) at [Inria Saclay](https://www.inria.fr/en/centre-inria-saclay-ile-de-france) and the [École Polytechnique](https://www.polytechnique.edu/). 
+
+I earned a doctorate in mathematics from Aalto University in 2019. My doctoral thesis titled [Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224) was supervised by [Prof Anders Karlsson](https://www.unige.ch/math/folks/karlsson/), [Prof Kalle Kytölä](https://math.aalto.fi/~kkytola/), and [Prof Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna).
