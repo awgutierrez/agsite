@@ -25,27 +25,14 @@ abstract: We give a complete description of the horofunction boundary of finite-
 # Summary. An optional shortened abstract.
 summary: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ of $\\mathbf{R}^\\mathcal{N}$.
 
-tags:
-- horofunction boundary
-- Busemann function
-- horofunction
-- horofunction compactification
-- metric spaces
-- $\\ell_p$ spaces
-- variation norm
-- Hilbert's projective metric
-- fixed point
-- tropical operator
-- Perron's theorem
-- positive cone
-#["","","","","","","","","","","",""]
+tags: ["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed point","tropical operator","Perron's theorem","positive cone"]
 
 featured: true
 
 # links:
  - name: "arXiv"
    url: "https://arxiv.org/abs/1709.03462"
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
