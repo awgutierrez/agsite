@@ -20,17 +20,25 @@ doi: "https://doi.org/10.1007/s11784-021-00896-8"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Fixed Point Theory and Applications*
-publication_short: In *J. Fixed Point Theory Appl. 23, 59 (2021)*
+publication: "*Journal of Fixed Point Theory and Applications*"
+publication_short: "*J. Fixed Point Theory Appl. 23, 59 (2021)*"
 
-abstract:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
+abstract: This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of {{< math >}}$\ell_{1}${{< /math >}}. We also point out some inaccurate assertions appearing in the literature on this topic.
 # Summary. An optional shortened abstract.
-summary:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
+summary: This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of {{< math >}}$\ell_{1}${{< /math >}}. We also point out some inaccurate assertions appearing in the literature on this topic.
 
-tags: ["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace","firmly nonexpansive map"]
+tags: 
+- metric functional
+- isometry
+- mean ergodic theorem
+- fixed point
+- nonexpansive map
+- invariant subspace
+- firmly nonexpansive
+#["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace","firmly nonexpansive map"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,10 +59,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

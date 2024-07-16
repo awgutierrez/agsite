@@ -25,18 +25,16 @@ publication_types: ["article-journal"]
 publication: "*Colloquium Mathematicum*"
 publication_short: "*Colloq. Math. 155, No. 1, 51-65 (2019)*"
 
-abstract: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. 
-          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
-          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone 
-          $\\mathbf{R}^\\mathcal{N}_{+}$ of $\\mathbf{R}^\\mathcal{N}$.
+abstract: We give a complete description of the horofunction boundary of finite-dimensional {{< math >}}$\ell_{p}${{< /math >}} spaces for {{< math >}}$1 \leq p \leq \infty${{< /math >}}. We also study the variation norm on {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}, {{< math >}}$\mathcal{N}=\{1,…,N\}${{< /math >}}, and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone {{< math >}}$\mathbf{R}^\mathcal{N}_{+}${{< /math >}} of {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}.
 
 # Summary. An optional shortened abstract.
-summary: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. 
-          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
-          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ 
-          of $\\mathbf{R}^\\mathcal{N}$.
+summary: We give a complete description of the horofunction boundary of finite-dimensional {{< math >}}$\ell_{p}${{< /math >}} spaces for {{< math >}}$1 \leq p \leq \infty${{< /math >}}. We also study the variation norm on {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}, {{< math >}}$\mathcal{N}=\{1,…,N\}${{< /math >}}, and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone {{< math >}}$\mathbf{R}^\mathcal{N}_{+}${{< /math >}} of {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}.
 
-tags: ["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed point","tropical operator","Perron's theorem","positive cone"]
+tags: 
+- horofunction boundary
+- Busemann function
+- horofunction compactification
+#["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed point","tropical operator","Perron's theorem","positive cone"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -58,10 +56,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

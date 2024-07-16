@@ -22,18 +22,27 @@ doi: "10.1007/s43034-019-00024-1"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Annals of Functional Analysis*
-publication_short: In *Ann. Funct. Anal. 11, No. 2, 227-243 (2020)*
+publication: "*Annals of Functional Analysis*"
+publication_short: "*Ann. Funct. Anal. 11, No. 2, 227-243 (2020)*"
 
-abstract: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \\leq p < \\infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \\infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+abstract: We present a complete characterization of the metric compactification of {{< math >}}$L_p${{< /math >}} spaces for {{< math >}}$1 \leq p < \infty${{< /math >}}. Each element of the metric compactification of {{< math >}}$L_p${{< /math >}} is represented by a random measure on a certain Polish space. By way of illustration, we revisit the {{< math >}}$L_p${{< /math >}}-mean ergodic theorem for {{< math >}}$1 < p < \infty${{< /math >}}, and Alspach’s example of an isometry on a weakly compact convex subset of {{< math >}}$L_1${{< /math >}} with no fixed points.
 
 # Summary. An optional shortened abstract.
-summary: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \\leq p < \\infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \\infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+summary: We present a complete characterization of the metric compactification of {{< math >}}$L_p${{< /math >}} spaces for {{< math >}}$1 \leq p < \infty${{< /math >}}. Each element of the metric compactification of {{< math >}}$L_p${{< /math >}} is represented by a random measure on a certain Polish space. By way of illustration, we revisit the {{< math >}}$L_p${{< /math >}}-mean ergodic theorem for {{< math >}}$1 < p < \infty${{< /math >}}, and Alspach’s example of an isometry on a weakly compact convex subset of {{< math >}}$L_1${{< /math >}} with no fixed points.
 
-tags: ["metric compactification","horofunction compactification","metric functional","horofunction","Busemann function","isometry","random measure","mean ergodic theorem","fixed point","$L_p$ spaces"]
+tags: 
+- metric compactification
+- metric functional
+- isometry
+- mean ergodic theorem
+- fixed point
+- Busemann function
+- horofunction
+
+#["metric compactification","horofunction compactification","metric functional","horofunction","Busemann function","isometry","random measure","mean ergodic theorem","fixed point","$L_p$ spaces"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -54,10 +63,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

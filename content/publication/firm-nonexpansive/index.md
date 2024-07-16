@@ -20,17 +20,23 @@ doi: "10.1007/s00013-022-01759-5"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Archiv der Mathematik*
-publication_short: In *Arch. Math.*
+publication: "*Archiv der Mathematik*"
+publication_short: "*Arch. Math. 119, 389–400 (2022)*"
 
 abstract: We introduce the notion of a firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.   
 # Summary. An optional shortened abstract.
 summary:  We introduce the notion of a firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.   
 
-tags: ["metric functional","firm nonexpansive","firmly nonexpansive","metric spaces","minimal displacement","escape rate","asymptotic step size"]
+tags: 
+- metric functional
+- firm nonexpansive
+- firmly nonexpansive
+- metric spaces
+
+#["metric functional","firm nonexpansive","firmly nonexpansive","metric spaces","minimal displacement","escape rate","asymptotic step size"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,10 +59,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
