@@ -28,7 +28,7 @@ publication_short: "*Arch. Math. 119, 389–400 (2022)*"
 
 abstract: We introduce the notion of a firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.   
 # Summary. An optional shortened abstract.
-summary:  We introduce the notion of a firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.   
+summary:   
 
 tags: 
 - metric functional

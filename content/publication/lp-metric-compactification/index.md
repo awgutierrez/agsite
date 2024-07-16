@@ -31,8 +31,7 @@ publication_short: "*Can. Math. Bull. 62, No. 3, 491-507 (2019)*"
 abstract: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. It has been mainly studied on proper geodesic metric spaces. We present here a generalization of the metric compactification that can be applied to infinite-dimensional Banach spaces. Thereafter we give a complete description of the metric compactification of infinite-dimensional {{< math >}}$\ell_p${{< /math >}} spaces for all {{< math >}}$1 \leq p < \infty${{< /math >}}. We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
 
 # Summary. An optional shortened abstract.
-summary: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. It has been mainly studied on proper geodesic metric spaces. We present here a generalization of the metric compactification that can be applied to infinite-dimensional Banach spaces. Thereafter we give a complete description of the metric compactification of infinite-dimensional {{< math >}}$\ell_p${{< /math >}} spaces for all {{< math >}}$1 \leq p < \infty${{< /math >}}. We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
-
+summary: 
 
 tags: 
 - metric compactification
@@ -40,6 +39,7 @@ tags:
 - Banach spaces
 - metric functional
 - metric geometry
+- Banach spaces
 #["metric compactification","horofunction compactification","metric spaces","metric boundary","Banach spaces","$\\ell_p$ spaces","horofunction","metric functional","horofunction boundary","metric geometry"]
 
 # Display this page in the Featured widget?

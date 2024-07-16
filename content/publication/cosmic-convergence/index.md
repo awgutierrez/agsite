@@ -28,7 +28,7 @@ publication_short: "*J. Fixed Point Theory Appl. 23, 59 (2021)*"
 
 abstract: This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of {{< math >}}$\ell_{1}${{< /math >}}. We also point out some inaccurate assertions appearing in the literature on this topic.
 # Summary. An optional shortened abstract.
-summary: This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of {{< math >}}$\ell_{1}${{< /math >}}. We also point out some inaccurate assertions appearing in the literature on this topic.
+summary: 
 
 tags: 
 - metric functional
