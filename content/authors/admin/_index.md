@@ -48,16 +48,12 @@ interests:
   - Metric Geometry
 
 education:
-  - area: PhD Mathematics
+  - area: DSc in Mathematics
     institution: Aalto University
 #    date_start: 2016-01-01
     date_end: 2019-11-28
     summary: |
-      Thesis on _Metric compactification of Banach spaces_. 
-      Supervised by 
-      [Prof Anders Karlsson](https://www.unige.ch/math/folks/karlsson/), 
-      [Prof Kalle Kytölä](https://math.aalto.fi/~kkytola/) and 
-      [Prof Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna). 
+      Thesis on _Metric compactification of Banach spaces_. Supervised by [Prof Anders Karlsson](https://www.unige.ch/math/folks/karlsson/), [Prof Kalle Kytölä](https://math.aalto.fi/~kkytola/), and [Prof Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna). 
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/handle/123456789/41224'
@@ -78,12 +74,16 @@ work:
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
+  - position: Postdoctoral Researcher
+    company_name: Aalto University
+    company_url: 'https://www.aalto.fi/en/'
+    date_start: 2022-08-01
+    date_end: 2023-12-31
+  - position: Postdoctoral Researcher
+    company_name: Inria Saclay
+    company_url: 'https://www.inria.fr/en/inria-saclay-centre'
+    date_start: 2020-08-01
+    date_end: 2022-07-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -98,7 +98,15 @@ skills:
         description: ''
         percent: 60
         icon: code-bracket
+      - name: JuMP
+        description: ''
+        percent: 60
+        icon: code-bracket
       - name: GAMS
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Python
         description: ''
         percent: 40
         icon: code-bracket
