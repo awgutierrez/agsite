@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "*Colloquium Mathematicum*"
 publication_short: "*Colloq. Math. 155, No. 1, 51-65 (2019)*"
 
-abstract: We give a complete description of the horofunction boundary of finite-dimensional {{< math >}}$\ell_{p}${{< /math >}} spaces for {{< math >}}$1 \leq p \leq \infty${{< /math >}}. We also study the variation norm on {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}, {{< math >}}$\mathcal{N}=\{1,…,N\}${{< /math >}}, and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone {{< math >}}$\mathbf{R}^\mathcal{N}_{+}${{< /math >}} of {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}.
+abstract: We give a complete description of the horofunction boundary of finite-dimensional {{< math >}}$\ell_{p}${{< /math >}} spaces for {{< math >}}$1 \leq p \leq \infty.${{< /math >}} We also study the variation norm on {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}, {{< math >}}$\mathcal{N}=\{1,…,N\}${{< /math >}}, and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone {{< math >}}$\mathbf{R}^\mathcal{N}_{+}${{< /math >}} of {{< math >}}$\mathbf{R}^\mathcal{N}${{< /math >}}.
 
 # Summary. An optional shortened abstract.
 summary: 
