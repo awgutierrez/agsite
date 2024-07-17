@@ -56,14 +56,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: All Publications
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-    design:
-      view: citation
+#    design:
+#      view: citation
 #  - block: collection
 #    id: talks
 #    content:

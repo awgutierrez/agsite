@@ -92,15 +92,15 @@ skills:
     items:
       - name: Julia
         description: ''
-        percent: 60
+        percent: 80
         icon: code-bracket
       - name: HiGHS
         description: ''
-        percent: 60
+        percent: 80
         icon: code-bracket
       - name: JuMP
         description: ''
-        percent: 60
+        percent: 80
         icon: code-bracket
       - name: GAMS
         description: ''
@@ -108,7 +108,7 @@ skills:
         icon: code-bracket
       - name: Python
         description: ''
-        percent: 40
+        percent: 50
         icon: code-bracket
 
 # Awards.
