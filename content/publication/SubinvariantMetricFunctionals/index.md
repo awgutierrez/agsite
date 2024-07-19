@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024"
+date: "2024-00-00T00:00:00Z"
 doi: ""
 
 # Publication type.
