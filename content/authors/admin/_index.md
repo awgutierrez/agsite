@@ -14,7 +14,7 @@ last_name: Gutiérrez
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Researcher in Energy Systems Optimization
@@ -22,7 +22,7 @@ role: Researcher in Energy Systems Optimization
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: VTT
-    url: https://www.vttresearch.com/en/
+    url: https://cris.vtt.fi/en/persons/armando-w-guti%C3%A9rrez
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,6 +38,8 @@ profiles:
     url: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5010-7103
+  - icon: brands/arxiv
+    url: https://arxiv.org/a/0000-0001-5010-7103.html
 
 interests:
   - Optimization

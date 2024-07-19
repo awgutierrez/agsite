@@ -12,8 +12,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-01-01T00:00:00Z"
-doi: "10.1007/s43034-019-00024-1"
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ doi: "10.1007/s43034-019-00024-1"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Annals of Functional Analysis*"
+publication: "*Annals of Functional Analysis 11, No. 2, 227-243 (2020)*"
 publication_short: "*Ann. Funct. Anal. 11, No. 2, 227-243 (2020)*"
 
 abstract: We present a complete characterization of the metric compactification of {{< math >}}$L_p${{< /math >}} spaces for {{< math >}}$1 \leq p < \infty${{< /math >}}. Each element of the metric compactification of {{< math >}}$L_p${{< /math >}} is represented by a random measure on a certain Polish space. By way of illustration, we revisit the {{< math >}}$L_p${{< /math >}}-mean ergodic theorem for {{< math >}}$1 < p < \infty${{< /math >}}, and Alspach’s example of an isometry on a weakly compact convex subset of {{< math >}}$L_1${{< /math >}} with no fixed points.
@@ -49,6 +49,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+ - name: journal
+   url: https://doi.org/10.1007/s43034-019-00024-1
  - name: arXiv
    url: https://arxiv.org/abs/1903.02502
 

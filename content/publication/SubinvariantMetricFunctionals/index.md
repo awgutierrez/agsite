@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-07-05T00:00:00Z"
+date: ""
 doi: ""
 
 # Publication type.
@@ -23,7 +23,7 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "arXiv preprint July 2024"
 publication_short: ""
 
 abstract: We investigate the existence of subinvariant metric functionals for commuting families of nonexpansive mappings in noncompact subsets of Banach spaces. Our findings underscore the practicality of metric functionals when searching for fixed points of nonexpansive mappings. To demonstrate this, we additionally investigate subsets of Banach spaces that have only nontrivial metric functionals. We particularly show that in certain cases every metric functional has a unique minimizer; thus, subinvariance implies the existence of a fixed point.

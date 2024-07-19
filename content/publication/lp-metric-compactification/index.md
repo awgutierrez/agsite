@@ -12,8 +12,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2018-12-28T00:00:00Z"
-doi: "10.4153/S0008439518000681"
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ doi: "10.4153/S0008439518000681"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Canadian Mathematical Bulletin*"
+publication: "*Canadian Mathematical Bulletin 62, No. 3, 491-507 (2019)*"
 publication_short: "*Can. Math. Bull. 62, No. 3, 491-507 (2019)*"
 
 abstract: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. It has been mainly studied on proper geodesic metric spaces. We present here a generalization of the metric compactification that can be applied to infinite-dimensional Banach spaces. Thereafter we give a complete description of the metric compactification of infinite-dimensional {{< math >}}$\ell_p${{< /math >}} spaces for all {{< math >}}$1 \leq p < \infty${{< /math >}}. We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
@@ -47,6 +47,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+ - name: journal
+   url: https://doi.org/10.4153/S0008439518000681
  - name: arXiv
    url: https://arxiv.org/abs/1802.04710
 

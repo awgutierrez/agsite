@@ -13,8 +13,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-10-06T00:00:00Z"
-doi: "10.1007/s00013-022-01759-5"
+date: ""
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ doi: "10.1007/s00013-022-01759-5"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Archiv der Mathematik*"
+publication: "*Archiv der Mathematik 119, 389–400 (2022)*"
 publication_short: "*Arch. Math. 119, 389–400 (2022)*"
 
 abstract: We introduce the notion of a firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.   
@@ -43,10 +43,12 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+ - name: journal
+   url: https://doi.org/10.1007/s00013-022-01759-5
  - name: arXiv
    url: https://arxiv.org/abs/2110.13195
- - name: ePDF
-   url: https://rdcu.be/cSjn7
+# - name: ePDF
+#   url: https://rdcu.be/cSjn7
  
 url_pdf: ''
 url_code: ''
