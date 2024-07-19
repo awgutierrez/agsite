@@ -63,7 +63,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: card
+      view: compact
 #  - block: collection
 #    id: talks
 #    content:
