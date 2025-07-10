@@ -27,11 +27,11 @@ publication: "arXiv preprint June 2025"
 publication_short: ""
 
 abstract: |
-	'We introduce a notion of weak convergence in arbitrary metric spaces. 
-	Metric functionals are key in our analysis: weak convergence of sequences 
-	in a given metric space is tested against all the metric functionals defined 
-	on said space. When restricted to bounded sequences in normed linear spaces, 
-	we prove that our notion of weak convergence agrees with the standard one.'
+ 'We introduce a notion of weak convergence in arbitrary metric spaces. 
+ Metric functionals are key in our analysis: weak convergence of sequences 
+ in a given metric space is tested against all the metric functionals defined 
+ on said space. When restricted to bounded sequences in normed linear spaces, 
+ we prove that our notion of weak convergence agrees with the standard one.'
 
 # Summary. An optional shortened abstract.
 summary: 
