@@ -1,5 +1,5 @@
 ---
-title: "Subinvariant metric functionals for nonexpansive mappings"
+title: "**Subinvariant Metric Functionals for Nonexpansive Mappings**"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,19 +14,27 @@ authors:
 # - "Equal contribution"
 
 date: "2025-07-15T00:00:00Z"
-doi: "https://doi.org/10.1080/01630563.2025.2528908"
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Numerical Functional Analysis and Optimization*"
+publication: "*Numerical Functional Analysis and Optimization (July 2025)*"
 publication_short: ""
 
-abstract: We investigate the existence of subinvariant metric functionals for commuting families of nonexpansive mappings in noncompact subsets of Banach spaces. Our findings underscore the practicality of metric functionals when searching for fixed points of nonexpansive mappings. To demonstrate this, we additionally investigate subsets of Banach spaces that have only nontrivial metric functionals. We particularly show that in certain cases every metric functional has a unique minimizer; thus, subinvariance implies the existence of a fixed point.
+abstract: |
+We investigate the existence of subinvariant metric functionals for 
+commuting families of nonexpansive mappings in noncompact subsets of 
+Banach spaces. Our findings underscore the practicality of metric 
+functionals when searching for fixed points of nonexpansive mappings. 
+To demonstrate this, we additionally investigate subsets of Banach spaces 
+that have only nontrivial metric functionals. We particularly show that 
+in certain cases every metric functional has a unique minimizer; thus, 
+subinvariance implies the existence of a fixed point.
 
 # Summary. An optional shortened abstract.
 summary: 
