@@ -13,17 +13,17 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-07-05T00:00:00Z"
-doi: ""
+date: "2025-07-15T00:00:00Z"
+doi: "https://doi.org/10.1080/01630563.2025.2528908"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint July 2024"
+publication: "*Numerical Functional Analysis and Optimization*"
 publication_short: ""
 
 abstract: We investigate the existence of subinvariant metric functionals for commuting families of nonexpansive mappings in noncompact subsets of Banach spaces. Our findings underscore the practicality of metric functionals when searching for fixed points of nonexpansive mappings. To demonstrate this, we additionally investigate subsets of Banach spaces that have only nontrivial metric functionals. We particularly show that in certain cases every metric functional has a unique minimizer; thus, subinvariance implies the existence of a fixed point.
@@ -34,7 +34,7 @@ summary:
 tags: 
 - metric functional
 - fixed point
-- nonexpansive map
+- nonexpansive mapping
 - subinvariance
 
 #["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace","firmly nonexpansive map"]
@@ -44,6 +44,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+ - name: journal
+   url: https://www.tandfonline.com/eprint/S7JKNW7NQYNZI7FHMXYX/full?target=10.1080/01630563.2025.2528908
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2407.04234
 
