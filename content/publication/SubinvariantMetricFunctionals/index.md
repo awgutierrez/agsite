@@ -20,7 +20,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Numerical Functional Analysis and Optimization (July 2025)*"
@@ -56,7 +56,8 @@ links:
    url: https://www.tandfonline.com/eprint/S7JKNW7NQYNZI7FHMXYX/full?target=10.1080/01630563.2025.2528908
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2407.04234
-
+ - name: ePDF
+   url: https://www.tandfonline.com/doi/epdf/10.1080/01630563.2025.2528908?needAccess=true
 url_pdf: ''
 url_code: ''
 url_dataset: ''

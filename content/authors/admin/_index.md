@@ -36,8 +36,8 @@ profiles:
     url: https://www.linkedin.com/in/armando-w-gutierrez/
   - icon: academicons/google-scholar
     url: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-5010-7103
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0001-5010-7103
   - icon: brands/arxiv
     url: https://arxiv.org/a/0000-0001-5010-7103.html
 
@@ -48,6 +48,8 @@ interests:
   - Convex Analysis
   - Functional Analysis
   - Metric Geometry
+  - Quantum Computing
+  - Functional Programming
 
 education:
   - area: DSc in Mathematics
@@ -96,6 +98,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Haskell
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: C
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: HiGHS
         description: ''
         percent: 80
@@ -106,11 +116,11 @@ skills:
         icon: code-bracket
       - name: GAMS
         description: ''
-        percent: 40
+        percent: 60
         icon: code-bracket
       - name: Python
         description: ''
-        percent: 50
+        percent: 60
         icon: code-bracket
 
 # Awards.
@@ -141,7 +151,9 @@ skills:
 ---
 ## About Me
 
-I'm a researcher in energy systems optimization at [VTT](https://www.vttresearch.com/en). I'm a mathematician with research experience in metric geometry, functional analysis, optimization, and dynamics. Currently, I'm working with [VTT's energy experts](https://cris.vtt.fi/en/organisations/does-design-and-operation-of-energy-systems/) to help tackle the energy transition challenges.
+I'm a researcher in energy systems optimization at [VTT](https://www.vttresearch.com/en). 
+I'm a mathematician with research experience in metric geometry, functional analysis, optimization, and dynamics. 
+Currently, I'm working with [VTT's energy experts](https://cris.vtt.fi/en/organisations/does-design-and-operation-of-energy-systems/) to help tackle the energy transition challenges.
 
 Previously, I worked as a researcher in the [TROPICAL team](https://team.inria.fr/tropical/) at [Inria Saclay](https://www.inria.fr/en/centre-inria-saclay-ile-de-france) and the [École Polytechnique](https://www.polytechnique.edu/). 
 
